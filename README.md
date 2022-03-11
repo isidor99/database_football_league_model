@@ -1,2 +1,2 @@
-# database_football_league_model
+# Database football league model
 Database model.
